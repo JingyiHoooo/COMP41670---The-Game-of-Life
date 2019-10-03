@@ -1,0 +1,12 @@
+- {name: "Fashion Designer", salary: 80, bonusNum: 7,bonus: 20}
+- {name: "Secret Agent", salary: 100, bonusNum: 8,bonus: 20}
+- {name: "Scientist", salary: 100, bonusNum: 9,bonus: 20}
+- {name: "Teacher", salary: 100, bonusNum: 6,bonus: 20}
+- {name: "Vet", salary: 100, bonusNum: 7,bonus: 20}
+- {name: "Video Game Designer", salary: 110, bonusNum: 8,bonus: 20}
+- {name: "Lawyer", salary: 120, bonusNum: 9,bonus: 20}
+- {name: "Doctor", salary: 130, bonusNum: 10,bonus: 20}
+- {name: "Filler1", salary: 50, bonusNum: 4,bonus: 20}
+- {name: "Filler2", salary: 60, bonusNum: 2,bonus: 20}
+- {name: "Filler3", salary: 70, bonusNum: 3,bonus: 20}
+- {name: "Filler4", salary: 80, bonusNum: 4,bonus: 20}
