@@ -1,0 +1,8 @@
+- {name: "Athlete", salary: 50,  bonusNum: 1, bonus: 20}
+- {name: "Dancer", salary: 50, bonusNum: 2, bonus: 20}
+- {name: "Chef", salary: 50, bonusNum: 3, bonus: 20}
+- {name: "Police Officer", salary: 50, bonusNum: 4, bonus: 20}
+- {name: "Race Car Driver", salary: 60, bonusNum: 2, bonus: 20}
+- {name: "Singer", salary: 70, bonusNum: 3, bonus: 20}
+- {name: "Inventor", salary: 80, bonusNum: 4, bonus: 20}
+- {name: "Actor", salary: 100, bonusNum: 5, bonus: 20}

@@ -1,0 +1,14 @@
+- {name: "Beach Hut", purchasePrice: 100, redPrice: 80, blackPrice: 150}
+- {name: "Teepee", purchasePrice: 100, redPrice: 80, blackPrice: 150}
+- {name: "Studio Flat", purchasePrice: 100, redPrice: 80, blackPrice: 150}
+- {name: "Cozy Cottage", purchasePrice: 150, redPrice: 120, blackPrice: 200}
+- {name: "Eco House", purchasePrice: 200, redPrice: 180, blackPrice: 300}
+- {name: "Houseboat", purchasePrice: 200, redPrice: 180, blackPrice: 300}
+- {name: "Luxury Flat", purchasePrice: 250, redPrice: 200, blackPrice: 300}
+- {name: "Family House", purchasePrice: 250, redPrice: 250, blackPrice: 300}
+- {name: "Deam Villa", purchasePrice: 300, redPrice: 250, blackPrice: 380}
+- {name: "Farmhouse", purchasePrice: 300, redPrice: 260, blackPrice: 380}
+- {name: "Windmill", purchasePrice: 350, redPrice: 300, blackPrice: 500}
+- {name: "Ranch", purchasePrice: 600, redPrice: 600, blackPrice: 750}
+- {name: "City Penthouse", purchasePrice: 600, redPrice: 650, blackPrice: 700}
+- {name: "Island Holiday Home", purchasePrice: 600, redPrice: 650, blackPrice: 800}
